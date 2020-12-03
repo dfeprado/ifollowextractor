@@ -19,9 +19,9 @@ I know... it's a bit manually process. But, it works ;)
     - second: output file (relative/absolute path)
 
 **Example**
-´´´python
+```
 $ py ifollowextractor.py input.html outputList.txt
-´´´
+```
 
 ## Output format
 A list of ordered follow's user name.
